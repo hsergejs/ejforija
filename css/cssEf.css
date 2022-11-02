@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+a img {color:#F2CA28; border:#F2CA28; border:0px;}
+
+
+p { font-family:Arial, Helvetica, sans-serif; font-size:16px;}
+
+.menuright {border-right:2px solid #36B630;}
+
+.menuUP a {font-family:Arial, Helvetica, sans-serif; font-size:17px; color:#000; text-decoration:none;}
+.menufooter a {font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; text-decoration:none; margin-right:10px;}
+
+.menumainp { font-family:Arial, Helvetica, sans-serif; color:#000; word-spacing:5px;}
+.menumainp h3 {font-family:Arial, Helvetica, sans-serif; color:#000; word-spacing:2px; font-weight:bolder;}
+.menumainp h4 {font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000; word-spacing:2px; font-weight:bolder;}
+.memnumainbord { border-bottom:2px solid #36B630;}
+
+h3 {font-family:Arial, Helvetica, sans-serif; font-size:18px; word-spacing:2px; font-weight:bolder;}
+
+.index { font:Arial, Helvetica, sans-serif; color:#FFF; font-size:20px; word-spacing:2px;}
+
+.yes a {font-family:Arial, Helvetica, sans-serif; font-size:22px; font:bolder; color:#FFF; text-decoration:none;}
+
